@@ -1,0 +1,19 @@
+{
+  "name": "a3-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Q1.js",
+  "scripts": {
+    "start": "node Q1.js",
+    "start-q2": "node Q2.js",
+    "start-q3": "node Q3.js",
+    "start-q4": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
